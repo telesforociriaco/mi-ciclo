@@ -1,0 +1,18 @@
+
+div{
+	padding-left: 200px;
+	padding-top: 20px;
+	width: 170px;
+	height: auto;
+	
+}
+ul{
+	border: 3px solid blue;
+	background: black;
+}
+div div{
+	padding: 0;
+}
+ul li{
+	color: yellow;
+}
